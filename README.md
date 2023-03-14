@@ -5,6 +5,9 @@ Goal of the project:
 - Based on type of race and/or objectives, and compatibility with riders, make a recommendation of 7-8 riders to use in a team
 - Identifying each teams strength and weaknesses in type of races, typology of cyclist. Based on this, identifying potential recruit for their team based on compatibility with team or gaps to fill.
 
+Trello project planning:
+https://trello.com/b/tiQktSe3/finalprojectironhack  
+
 Dataset: 
 - Races results
 - Races info
