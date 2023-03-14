@@ -1,0 +1,111 @@
+,race_code,Date:,Start time:,Avg. speed winner:,Race category:,Distance:,Points scale:,UCI scale:,Parcours type:,ProfileScore:,Vert. meters:,Departure:,Arrival:,Race ranking:,Startlist quality score:,Won how:,Avg. temperature:
+0,omloop-het-nieuwsblad/2022,26 February 2022,11:15,42.137 km/h,ME - Men Elite,204.2 km,1.WT.B,UCI.WR.C3,p2,49,1666,Ghent,Ninove,23,749,13 km solo,
+1,strade-bianche/2022,05 March 2022,11:45,38.358 km/h,ME - Men Elite,184 km,1.WT.B,UCI.WR.C3,p3,167,3107,Siena,Siena,27,662,49.2 km solo,
+2,milano-sanremo/2022,19 March 2022,10:10,45.331 km/h,ME - Men Elite,293 km,1.WT.A,UCI.WR.C1,p2,63,2096,Milano,Sanremo,13,938,4.3 km solo,
+3,oxyclean-classic-brugge-de-panne/2022,23 March 2022,12:15,43.664 km/h,ME - Men Elite,207.9 km,1.WT.B,UCI.WR.C3,p1,0,246,Brugge,De Panne,39,457,Sprint of large group,
+4,e3-harelbeke/2022,25 March 2022,12:22,43.997 km/h,ME - Men Elite,203.9 km,1.WT.B,UCI.WR.C2,p2,59,2010,Harelbeke,Harelbeke,29,640,Other,16 °C
+5,gent-wevelgem/2022,27 March 2022,11:10,44.172 km/h,ME - Men Elite,248.8 km,1.WT.B,UCI.WR.C1,p2,35,1377,Ypres,Wevelgem,16,830,Sprint of small group,13 °C
+6,dwars-door-vlaanderen/2022,30 March 2022,12:55,44.869 km/h,ME - Men Elite,183.7 km,1.WT.B,UCI.WR.C3,p2,50,1649,Roeselare,Waregem,27,648,Sprint a deux,28 °C
+7,ronde-van-vlaanderen/2022,03 April 2022,10:18,43.197 km/h,ME - Men Elite,272.5 km,1.WT.A,UCI.WR.C1,p2,79,2289,Antwerp,Oudenaarde,18,793,Sprint of small group,28 °C
+8,amstel-gold-race/2022,10 April 2022,10:26,42.196 km/h,ME - Men Elite,254.1 km,1.WT.B,UCI.WR.C1,p2,112,3460,Maastricht,Valkenburg,22,724,Sprint a deux,10 °C
+9,paris-roubaix/2022,17 April 2022,11:15,45.792 km/h,ME - Men Elite,257.2 km,1.WT.A,UCI.WR.C1,p1,5,1362,Compiègne,Roubaix,16,730,19.5 km solo,17 °C
+10,la-fleche-wallone/2022,20 April 2022,11:30,42.97 km/h,ME - Men Elite,202.1 km,1.WT.B,UCI.WR.C2,p3,173,3160,Blegny,Mur de Huy,9,971,Sprint a deux,14 °C
+11,liege-bastogne-liege/2022,24 April 2022,10:20,41.413 km/h,ME - Men Elite,257.2 km,1.WT.A,UCI.WR.C1,p2,182,4342,Liège,Liège,5,1090,14.4 km solo,14 °C
+12,eschborn-frankfurt/2022,01 May 2022,12:21,41.439 km/h,ME - Men Elite,185 km,1.WT.B,UCI.WR.C3,p2,89,2654,Eschborn,Frankfurt-am-Main,64,338,Sprint of large group,15 °C
+13,san-sebastian/2022,30 July 2022,11:52,40.659 km/h,ME - Men Elite,224.8 km,1.WT.B,UCI.WR.C2,p2,231,4147,San Sebastián,San Sebastián,20,724,44.5 km solo,23 °C
+14,cyclassics-hamburg/2022,21 August 2022,11:25,44.278 km/h,ME - Men Elite,204.7 km,1.WT.B,UCI.WR.C2,p2,30,892,Hamburg,Hamburg,27,661,Sprint of small group,24 °C
+15,bretagne-classic/2022,28 August 2022,10:50,41.958 km/h,ME - Men Elite,254.8 km,1.WT.B,UCI.WR.C2,p2,95,3116,Plouay,Plouay,12,823,Sprint of small group,25 °C
+16,gp-quebec/2022,09 September 2022,11:00  (17:00 CET),42.156 km/h,ME - Men Elite,201.6 km,1.WT.B,UCI.WR.C1,p3,60,2508,Québec,Québec,10,866,2.1 km solo,18 °C
+17,gp-montreal/2022,11 September 2022,10:15  (16:15 CET),36.938 km/h,ME - Men Elite,221.4 km,1.WT.B,UCI.WR.C1,p2,182,4124,Montréal,Montréal,11,829,Sprint of small group,22 °C
+18,il-lombardia/2022,08 October 2022,10:10,39.804 km/h,ME - Men Elite,253 km,1.WT.A,UCI.WR.C1,p2,278,4852,Bergamo,Como,6,1019,Sprint a deux,20 °C
+19,world-championships-itt-u23/2022,19 September 2022,13:23  (05:23 CET),50.502 km/h,MU - Men U23,28.8 km,UCI.WO.u23.TT,UCI.WR.WO.U23.TT,p2,18,306,Wollongong,Wollongong,242,19,Time Trial,
+20,world-championship-itt/2022,18 September 2022,13:42  (05:42 CET),51.257 km/h,ME - Men Elite,34.2 km,Worlds.TT,UCI.WR.WO.TT - TM2022,p2,17,324,Wollongong,Wollongong,66,327,Time Trial,
+21,world-championships-u23/2022,23 September 2022,13:00  (05:00 CET),42.963 km/h,MU - Men U23,169.8 km,Nationals.C1,UCI.WR.WO.U23,p2,116,2486,Wollongong,Wollongong,161,89,Sprint a deux,
+22,world-championship/2022,25 September 2022,10:15  (02:15 CET),42.575 km/h,ME - Men Elite,266.9 km,Worlds.RR,UCI.WR.WO - TM2022,p2,160,4167,Helensburgh,Wollongong,6,1073,25.8 km solo,
+23,trofeo-calvia/2022,26 January 2022,12:00,39.063 km/h,ME - Men Elite,154.7 km,1.1,UCI.WR.1,p2,154,3211,Peguera,Palmanova,62,305,60 km solo,
+24,trofeo-alcudia/2022,27 January 2022,12:00,45.026 km/h,ME - Men Elite,173.2 km,1.1,UCI.WR.1,p2,62,1653,Port d'Alcudia,Port d'Alcudia,74,272,Sprint of large group,
+25,deia-trophy/2022,28 January 2022,12:00,37.753 km/h,ME - Men Elite,158.9 km,1.1,UCI.WR.1,p3,170,3217,Lloseta,Lloseta,58,351,Sprint of small group,
+26,trofeo-andratx-mirador-d-es-colomer/2022,29 January 2022,12:00,40.05 km/h,ME - Men Elite,170.1 km,1.1,UCI.WR.1,p3,207,3429,Pollença,Andratx,55,366,Sprint a deux,
+27,gp-d-ouverture/2022,30 January 2022,12:30,38.564 km/h,ME - Men Elite,174.3 km,1.1,UCI.WR.1,p2,120,2921,Château-Gombert,Marseille,63,334,Sprint of large group,
+28,trofeo-palma/2022,30 January 2022,10:00,43.288 km/h,ME - Men Elite,169.1 km,1.1,UCI.WR.1,p2,35,1552,S'Arenal,Palma,67,319,Sprint of large group,
+29,vuelta-ciclista-a-la-region-de-murcia/2022,12 February 2022,13:25,39.995 km/h,ME - Men Elite,183.2 km,1.1,UCI.WR.1,p4,94,2331,Fortuna,Puerto de Cartagena,101,198,5 km solo,
+30,clasica-jaen-paraiso-interior/2022,14 February 2022,12:42,38.963 km/h,ME - Men Elite,187.8 km,1.1,UCI.WR.1,p3,185,3094,Baeza,Úbeda,115,167,25.1 km solo,
+31,gp-samyn/2022,01 March 2022,12:25,43.319 km/h,ME - Men Elite,209 km,1.1,UCI.WR.1,p3,10,1541,Quaregnon,Dour,71,298,Sprint of small group,
+32,grote-prijs-jean-pierre-monsere/2022,06 March 2022,10:20,42.771 km/h,ME - Men Elite,203.2 km,1.1,UCI.WR.1,p1,1,650,Hooglede,Roeselare,147,115,Sprint of large group,
+33,ronde-van-drenthe/2022,13 March 2022,10:30,38.493 km/h,ME - Men Elite,198.1 km,1.1,UCI.WR.1,p2,9,421,Assen,Hoogeveen,156,87,3.3 km solo,
+34,classic-loire-atlantique/2022,19 March 2022,12:30,42.802 km/h,ME - Men Elite,182.8 km,1.1,UCI.WR.1,p2,83,2452,La Haye-Fouassière,La Haye-Fouassière,153,98,Sprint of small group,
+35,cholet-pays-de-loire/2022,20 March 2022,12:00,42.576 km/h,ME - Men Elite,202 km,1.1,UCI.WR.1,p2,41,1714,Cholet,Cholet,157,91,Sprint of large group,
+36,per-sempre-alfredo/2022,20 March 2022,13:00,39.305 km/h,ME - Men Elite,172.7 km,1.1,UCI.WR.1,p2,136,2976,Firenze,Sesto Fiorentino,158,87,8.5 km solo,
+37,la-roue-tourangelle/2022,27 March 2022,13:30,43.433 km/h,ME - Men Elite,202 km,1.1,UCI.WR.1,p2,30,1525,Château-Renault,Tours,141,124,Sprint of large group,28 °C
+38,route-adelie-de-vitre/2022,01 April 2022,12:00,39.76 km/h,ME - Men Elite,176.7 km,1.1,UCI.WR.1,p1,68,2578,Vitré,Vitré,134,131,Sprint of small group,28 °C
+39,volta-limburg-classic/2022,02 April 2022,12:03,38.436 km/h,ME - Men Elite,195 km,1.1,UCI.WR.1,p2,90,2878,Eijsden,Eijsden,153,93,Sprint of small group,28 °C
+40,paris-camembert/2022,12 April 2022,11:05,41.113 km/h,ME - Men Elite,213.8 km,1.1,UCI.WR.1,p2,105,2779,Pont-Audemer,Livarot,147,107,2 km solo,17 °C
+41,classic-grand-besancon-doubs/2022,15 April 2022,12:15,40.05 km/h,ME - Men Elite,177.5 km,1.1,UCI.WR.1,p3,187,2786,Besançon,Montfaucon,126,145,0.4 km solo,21 °C
+42,tour-du-jura-cycliste/2022,16 April 2022,10:15,41.666 km/h,ME - Men Elite,169.8 km,1.1,UCI.WR.1,p3,129,2617,Champagnole,Nozeroy,127,142,Sprint a deux,16 °C
+43,tour-du-finistere/2022,21 May 2022,12:00,41.466 km/h,ME - Men Elite,193.3 km,1.1,UCI.WR.1,p3,115,2860,Saint-Evarzec,Quimper,134,137,Sprint a deux,21 °C
+44,veenendaal-veenendaal/2022,21 May 2022,12:21,43.548 km/h,ME - Men Elite,197.9 km,1.1,UCI.WR.1,p1,18,1020,Veenendaal,Veenendaal,143,117,Sprint of large group,18 °C
+45,antwerp-port-epic/2022,22 May 2022,12:44,42.29 km/h,ME - Men Elite,181.4 km,1.1,UCI.WR.1,p1,0,186,Antwerpen,Antwerpen,175,66,2.5 km solo,22 °C
+46,boucles-de-l-aulne/2022,22 May 2022,13:00,43.438 km/h,ME - Men Elite,175.2 km,1.1,UCI.WR.1,p2,86,2848,Châteaulin,Châteaulin,137,135,19.7 km solo,20 °C
+47,rund-um-koln/2022,22 May 2022,10:58,44.561 km/h,ME - Men Elite,199.3 km,1.1,UCI.WR.1,p2,88,2875,Köln,Köln,104,219,5 km solo,20 °C
+48,circuit-de-wallonie/2022,26 May 2022,13:25,43.906 km/h,ME - Men Elite,192.2 km,1.1,UCI.WR.1,p3,58,2030,Charleroi,Mont-sur-Marchienne,139,130,Sprint a deux,18 °C
+49,grote-prijs-marcel-kint/2022,29 May 2022,12:30,42.824 km/h,ME - Men Elite,199 km,1.1,UCI.WR.1,p2,40,1599,Kortrijk,Zwevegem,129,138,Sprint of large group,14 °C
+50,mercan-tour-classic-alpes-maritimes/2022,31 May 2022,11:02,34.67 km/h,ME - Men Elite,167.9 km,1.1,UCI.WR.1,p5,350,4739,Puget-Théniers,Col de Valberg,87,248,6.6 km solo,19 °C
+51,giro-del-appennino/2022,02 June 2022,11:00,38.793 km/h,ME - Men Elite,191.7 km,1.1,UCI.WR.1,p2,180,3054,Pasturana,Genoa,157,92,7.1 km solo,25 °C
+52,heist-op-den-berg/2022,04 June 2022,13:00,46.476 km/h,ME - Men Elite,192.8 km,1.1,UCI.WR.1,p1,5,572,Vosselaar,Heist-op-den-Berg,102,207,Sprint of small group,23 °C
+53,ronde-van-limburg/2022,06 June 2022,13:44,43.265 km/h,ME - Men Elite,202.6 km,1.1,UCI.WR.1,p3,32,1651,Hasselt,Tongeren,65,312,Sprint of small group,20 °C
+54,gp-du-canton-d-argovie/2022,10 June 2022,13:30,41.042 km/h,ME - Men Elite,173.8 km,1.1,UCI.WR.1,p2,136,2902,Leuggern,Leuggern,60,338,Sprint of small group,22 °C
+55,circuit-des-xi-villes/2022,12 June 2022,14:00,44.588 km/h,ME - Men Elite,192.3 km,1.1,UCI.WR.1,p1,0,268,Bruges,Bruges,87,233,Sprint of large group,20 °C
+56,mont-ventoux-denivele-challenge/2022,14 June 2022,11:05,33.898 km/h,ME - Men Elite,154 km,1.1,UCI.WR.1,p5,394,4521,Vaison-la-Romaine,Mont Ventoux,84,260,11.5 km solo,26 °C
+57,prueba-villafranca/2022,25 July 2022,10:00,42.697 km/h,ME - Men Elite,165.7 km,1.1,UCI.WR.1,p2,126,2391,Ordizia,Ordizia,126,151,11.5 km solo,23 °C
+58,circuito-de-getxo/2022,31 July 2022,12:12,42.331 km/h,ME - Men Elite,196.5 km,1.1,UCI.WR.1,p3,121,2378,Bilbao,Getxo,79,289,Sprint of small group,25 °C
+59,gp-jef-scherens/2022,07 August 2022,12:30,42.896 km/h,ME - Men Elite,199.3 km,1.1,UCI.WR.1,p2,41,1911,Leuven,Leuven,82,266,Sprint a deux,24 °C
+60,la-poly-normande/2022,14 August 2022,13:00,44.506 km/h,ME - Men Elite,168.9 km,1.1,UCI.WR.1,p3,59,2156,Avranches,Saint-Martin-de-Landelles,98,251,Sprint of small group,20 °C
+61,schaal-schels/2022,21 August 2022,14:30,47.402 km/h,ME - Men Elite,114.7 km,1.1,UCI.WR.1,p1,0,101,Merksem,Merksem,157,111,Sprint of large group,24 °C
+62,gp-stad-zottegem/2022,23 August 2022,12:17,43.556 km/h,ME - Men Elite,198 km,1.1,UCI.WR.1,p1,13,1431,Zottegem,Zottegem,77,292,Sprint of large group,26 °C
+63,druivenkoers-overijse/2022,24 August 2022,12:30,43.532 km/h,ME - Men Elite,192 km,1.1,UCI.WR.1,p2,51,1629,Overijse,Overijse,53,389,? km solo,30 °C
+64,tour-du-doubs/2022,04 September 2022,11:35,41.758 km/h,ME - Men Elite,204 km,1.1,UCI.WR.1,p2,104,2974,Morteau,Pontarlier,66,307,Sprint of small group,23 °C
+65,giro-di-toscana/2022,14 September 2022,11:30,40.722 km/h,ME - Men Elite,199.2 km,1.1,UCI.WR.1,p2,129,2298,Pontedera,Pontedera,100,228,Sprint of small group,27 °C
+66,kampioenschap-van-vlaanderen/2022,16 September 2022,13:00,44.558 km/h,ME - Men Elite,195.3 km,1.1,UCI.WR.1,p1,0,697,Koolskamp,Koolskamp,102,226,Sprint of large group,14 °C
+67,gooikse-pijl/2022,18 September 2022,12:00,42.755 km/h,ME - Men Elite,199 km,1.1,UCI.WR.1,p1,21,1893,Halle,Gooik,76,303,Sprint of large group,15 °C
+68,gp-d-isbergues/2022,18 September 2022,11:55,43.498 km/h,ME - Men Elite,197.6 km,1.1,UCI.WR.1,p2,12,1150,Isbergues,Isbergues,97,240,Sprint of large group,16 °C
+69,omloop-van-het-houtland-lichtervelde/2022,21 September 2022,12:40,44.535 km/h,ME - Men Elite,196.4 km,1.1,UCI.WR.1,p1,0,399,Eernegem,Lichtervelde,82,290,Sprint of large group,18 °C
+70,paris-chauny-classique/2022,25 September 2022,12:30,43.952 km/h,ME - Men Elite,203.5 km,1.1,UCI.WR.1,p2,67,2225,Margny-lès-Compiègne,Chauny,57,376,Sprint of large group,18 °C
+71,coppa-agostoni/2022,29 September 2022,11:30,38.933 km/h,ME - Men Elite,193 km,1.1,UCI.WR.1,p2,121,3189,Lissone,Lissone,60,359,Sprint of small group,17 °C
+72,famenne-ardenne-classic/2022,02 October 2022,12:15,42.369 km/h,ME - Men Elite,188 km,1.1,UCI.WR.1,p2,100,2873,Marche-en-Famenne,Marche-en-Famenne,81,294,Sprint of small group,12 °C
+73,tour-de-vendee/2022,02 October 2022,12:40,43.499 km/h,ME - Men Elite,206.9 km,1.1,UCI.WR.1,p1,40,1917,La Roche-sur-Yon,La Roche-sur-Yon,128,176,Sprint of large group,19 °C
+74,memorial-frank-vandenbroucke/2022,04 October 2022,12:15,44.752 km/h,ME - Men Elite,198.6 km,1.1,UCI.WR.1,p2,30,1977,Binche,Binche,36,483,0.7 km solo,17 °C
+75,paris-bourges/2022,06 October 2022,12:40,45.786 km/h,ME - Men Elite,198 km,1.1,UCI.WR.1,p2,55,1988,Gien,Bourges,37,469,Sprint of large group,17 °C
+76,memorial-rik-van-steenbergen/2022,09 October 2022,13:00,47.195 km/h,ME - Men Elite,174.7 km,1.1,UCI.WR.1,p1,0,232,Beerse,Arendonk,146,120,Sprint of large group,17 °C
+77,giro-del-veneto/2022,12 October 2022,12:25,44.002 km/h,ME - Men Elite,159.8 km,1.1,UCI.WR.1,p2,65,1530,Padova,Vicenza,115,200,Sprint a deux,22 °C
+78,chrono-des-nations/2022,16 October 2022,15:20,50.965 km/h,ME - Men Elite,45.43 km,1.1,UCI.WR.1,p1,6,333,Les Herbiers,Les Herbiers,158,98,? - let us know!,
+79,veneto-classic/2022,16 October 2022,11:40,40.729 km/h,ME - Men Elite,190 km,1.1,UCI.WR.1,p2,130,2533,Treviso,Bassano del Grappa,129,160,? km solo,21 °C
+80,clasica-de-almeria/2022,13 February 2022,13:00,42.993 km/h,ME - Men Elite,188.2 km,1.PRO,UCI.WR.Pro,p2,30,1751,El Ejido,Roquetas de Mar,90,232,Sprint of large group,
+81,faun-ardeche-classic/2022,26 February 2022,11:29,37.944 km/h,ME - Men Elite,168.5 km,1.PRO,UCI.WR.Pro,p2,216,3161,Guilherand-Granges,Guilherand-Granges,41,453,24.2 km solo,
+82,la-drome-classic/2022,27 February 2022,11:11,41.468 km/h,ME - Men Elite,191.5 km,1.PRO,UCI.WR.Pro,p3,127,2371,Étoile-sur-Rhône,Étoile-sur-Rhône,40,487,0.5 km solo,
+83,kuurne-brussel-kuurne/2022,27 February 2022,12:15,43.003 km/h,ME - Men Elite,195.1 km,1.PRO,UCI.WR.Pro,p2,45,1829,Kuurne,Kuurne,24,725,Sprint of large group,
+84,trofeo-laigueglia/2022,02 March 2022,11:00,40.077 km/h,ME - Men Elite,202 km,1.PRO,UCI.WR.Pro,p2,151,2973,Laigueglia,Laigueglia,64,311,0.5 km solo,
+85,nokere-koers/2022,16 March 2022,12:40,43.789 km/h,ME - Men Elite,189.8 km,1.PRO,UCI.WR.Pro,p3,14,1127,Deinze,Nokere,88,230,Sprint of large group,
+86,milano-torino/2022,16 March 2022,11:45,44 km/h,ME - Men Elite,199 km,1.PRO,UCI.WR.Pro,p2,21,1166,Magenta,Rivoli,49,409,Sprint of large group,
+87,gp-de-denain/2022,17 March 2022,11:08,42.557 km/h,ME - Men Elite,200.3 km,1.PRO,UCI.WR.Pro,p1,8,1208,Denain,Denain,84,252,Sprint of large group,
+88,bredene-koksijde-classic/2022,18 March 2022,12:17,44.727 km/h,ME - Men Elite,200.9 km,1.PRO,UCI.WR.Pro,p1,10,696,Bredene,Koksijde,87,231,Sprint of large group,
+89,gp-industria-artigianato/2022,27 March 2022,11:30,42.527 km/h,ME - Men Elite,192.2 km,1.PRO,UCI.WR.Pro,p2,93,2259,Larciano,Larciano,134,150,Sprint of small group,22 °C
+90,gp-miguel-indurain/2022,02 April 2022,12:25,38.279 km/h,ME - Men Elite,190 km,1.PRO,UCI.WR.Pro,p2,114,2878,Estella-Lizarra,Estella-Lizarra,54,371,Sprint of small group,28 °C
+91,scheldeprijs/2022,06 April 2022,12:59,48.457 km/h,ME - Men Elite,198.7 km,1.PRO,UCI.WR.Pro,p1,1,385,Terneuzen,Schoten,62,332,7.4 km solo,11 °C
+92,brabantse-pijl/2022,13 April 2022,12:37,41.95 km/h,ME - Men Elite,205.1 km,1.PRO,UCI.WR.Pro,p3,71,2034,Leuven,Overijse,34,539,3.7 km solo,14 °C
+93,gp-de-plumelec/2022,14 May 2022,12:35,41.983 km/h,ME - Men Elite,185.4 km,1.PRO,UCI.WR.Pro,p3,80,2471,Grand-Champ,Grand-Champ,108,193,0.4 km solo,23 °C
+94,tro-bro-leon/2022,15 May 2022,11:40,40.579 km/h,ME - Men Elite,207.8 km,1.PRO,UCI.WR.Pro,p2,38,1674,Lannilis,Lannilis,85,255,Sprint a deux,19 °C
+95,brussels-cycling-classic/2022,05 June 2022,12:31,42.919 km/h,ME - Men Elite,203.9 km,1.PRO,UCI.WR.Pro,p1,33,1850,Brussels,Brussels,56,378,Sprint a deux,18 °C
+96,dwars-door-het-hageland/2022,11 June 2022,11:20,42.999 km/h,ME - Men Elite,177 km,1.PRO,UCI.WR.Pro,p3,24,1065,Aarschot,Diest,91,234,11.8 km solo,22 °C
+97,circuit-franco-belge/2022,10 August 2022,13:05,41.678 km/h,ME - Men Elite,175.2 km,1.PRO,UCI.WR.Pro,p2,78,2007,Tournai,La Louvière,60,344,Sprint of small group,30 °C
+98,maryland-cycling-classic/2022,04 September 2022,13:31  (19:31 CET),42.999 km/h,ME - Men Elite,196.9 km,1.PRO,UCI.WR.Pro,p1,38,2286,Sparks,Baltimore,144,127,Sprint of small group,26 °C
+99,gp-de-fourmies/2022,11 September 2022,12:20,44.385 km/h,ME - Men Elite,197.6 km,1.PRO,UCI.WR.Pro,p2,47,2111,Fourmies,Fourmies,55,366,Sprint of small group,21 °C
+100,gp-de-wallonie/2022,14 September 2022,12:43,40.557 km/h,ME - Men Elite,199.7 km,1.PRO,UCI.WR.Pro,p3,93,2754,Blegny,Citadelle de Namur,59,362,Sprint of large group,18 °C
+101,gp-citta-di-peccioli/2022,15 September 2022,11:30,40.37 km/h,ME - Men Elite,198.9 km,1.PRO,UCI.WR.Pro,p3,113,2519,Peccioli,Peccioli,68,320,Sprint of small group,26 °C
+102,gp-impanis-van-petegem/2022,17 September 2022,12:55,42.175 km/h,ME - Men Elite,199.3 km,1.PRO,UCI.WR.Pro,p2,51,1937,Brakel,Haacht,43,442,Sprint of small group,13 °C
+103,giro-dell-emilia/2022,01 October 2022,11:20,40.343 km/h,ME - Men Elite,198.7 km,1.PRO,UCI.WR.Pro,p3,266,3021,Carpi,San Luca,21,729,1.8 km solo,19 °C
+104,coppa-bernocchi/2022,03 October 2022,11:00,44.346 km/h,ME - Men Elite,190.7 km,1.PRO,UCI.WR.Pro,p2,84,2087,Legnano,Legnano,47,407,Sprint of large group,22 °C
+105,munsterland-giro/2022,03 October 2022,12:25,44.666 km/h,ME - Men Elite,205.9 km,1.PRO,UCI.WR.Pro,p1,5,842,Telgte,Münster,108,225,Sprint of large group,16 °C
+106,tre-valli-varesine/2022,04 October 2022,12:00,42.522 km/h,ME - Men Elite,196.3 km,1.PRO,UCI.WR.Pro,p2,152,3464,Busto Arsizio,Varese,10,923,Sprint of small group,20 °C
+107,gran-piemonte/2022,06 October 2022,11:45,45.39 km/h,ME - Men Elite,198 km,1.PRO,UCI.WR.Pro,p2,44,1426,Omegna,Beinasco,46,425,Sprint of small group,22 °C
+108,paris-tours/2022,09 October 2022,11:55,43.718 km/h,ME - Men Elite,213.5 km,1.PRO,UCI.WR.Pro,p2,33,1242,Chartres,Tours,33,571,Sprint of large group,19 °C
+109,japan-cup/2022,16 October 2022,10:00  (03:00 CET),39.721 km/h,ME - Men Elite,144.2 km,1.PRO,UCI.WR.Pro,p2,127,2530,Utsunomiya,Utsunomiya,152,117,7.4 km solo,

@@ -1,0 +1,85 @@
+,race_code,Date:,Start time:,Avg. speed winner:,Race category:,Distance:,Points scale:,UCI scale:,Parcours type:,ProfileScore:,Vert. meters:,Departure:,Arrival:,Race ranking:,Startlist quality score:,Won how:,Avg. temperature:
+0,giro-d-italia/2019/stage-1,11 May 2019,16:50  (18:50 CET),37.209 km/h,ME - Men Elite,8 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p3,39,291,Bologna,Madonna di San Luca,0,868,Time Trial,
+1,giro-d-italia/2019/stage-2,12 May 2019,12:20  (14:20 CET),43.201 km/h,ME - Men Elite,205 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,69,2242,Bologna,Fucecchio,0,868,Sprint of small group,
+2,giro-d-italia/2019/stage-3,13 May 2019,12:14  (14:14 CET),40.827 km/h,ME - Men Elite,220 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,31,1790,Vinci,Orbetello,0,868,Sprint of large group,
+3,giro-d-italia/2019/stage-4,14 May 2019,11:30  (13:30 CET),39.354 km/h,ME - Men Elite,235 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p3,80,2995,Orbetello,Frascati,0,868,0.5 km solo,
+4,giro-d-italia/2019/stage-5,15 May 2019,14:00  (16:00 CET),42.916 km/h,ME - Men Elite,140 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,88,2056,Frascati,Terracina,0,868,Sprint of large group,
+5,giro-d-italia/2019/stage-6,16 May 2019,11:25  (13:25 CET),41.389 km/h,ME - Men Elite,238 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,99,2881,Cassino,San Giovanni Rotondo,0,868,Sprint a deux,
+6,giro-d-italia/2019/stage-7,17 May 2019,12:40  (14:40 CET),45.04 km/h,ME - Men Elite,185 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,101,2626,Vasto,L'Aquila,0,868,1.3 km solo,
+7,giro-d-italia/2019/stage-8,18 May 2019,11:25  (13:25 CET),41.743 km/h,ME - Men Elite,239 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,75,1998,Tortoreto Lido,Pesaro,0,868,Sprint of large group,
+8,giro-d-italia/2019/stage-9,19 May 2019,13:15  (15:15 CET),40.257 km/h,ME - Men Elite,34.8 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p3,83,723,Riccione,San Marino,0,868,Time Trial,
+9,giro-d-italia/2019/stage-10,21 May 2019,13:55  (15:55 CET),40.256 km/h,ME - Men Elite,145 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,1,160,Ravenna,Modena,0,868,Sprint of large group,
+10,giro-d-italia/2019/stage-11,22 May 2019,12:05  (14:05 CET),41.773 km/h,ME - Men Elite,221 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,0,476,Carpi,Novi Ligure,0,868,Sprint of large group,
+11,giro-d-italia/2019/stage-12,23 May 2019,13:15  (15:15 CET),42.738 km/h,ME - Men Elite,158 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,131,1918,Cuneo,Pinerolo,0,868,Sprint of small group,
+12,giro-d-italia/2019/stage-13,24 May 2019,11:35  (13:35 CET),35.139 km/h,ME - Men Elite,196 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,377,5187,Pinerolo,Ceresole Reale (Lago Serrù),0,868,5 km solo,
+13,giro-d-italia/2019/stage-14,25 May 2019,13:15  (15:15 CET),32.428 km/h,ME - Men Elite,131 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,330,4187,Saint Vincent,Courmayeur (Skyway Monte Bianco),0,868,28 km solo,
+14,giro-d-italia/2019/stage-15,26 May 2019,11:25  (13:25 CET),39.971 km/h,ME - Men Elite,232 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p3,214,3122,Ivrea,Como,0,868,Sprint a deux,
+15,giro-d-italia/2019/stage-16,28 May 2019,11:40  (13:40 CET),34.602 km/h,ME - Men Elite,194 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,334,5207,Lovere,Ponte di Legno,0,868,Sprint a deux,
+16,giro-d-italia/2019/stage-17,29 May 2019,12:25  (14:25 CET),38.57 km/h,ME - Men Elite,181 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,221,3482,Commezzadura (Val di Sole),Anterselva / Antholz,0,868,16 km solo,
+17,giro-d-italia/2019/stage-18,30 May 2019,12:10  (14:10 CET),44.99 km/h,ME - Men Elite,222 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,20,1478,Valdaora / Olang,Santa Maria di Sala,0,868,Sprint of small group,
+18,giro-d-italia/2019/stage-19,31 May 2019,13:05  (15:05 CET),37.513 km/h,ME - Men Elite,151 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,215,3169,Treviso,San Martino di Castrozza,0,868,3 km solo,
+19,giro-d-italia/2019/stage-20,01 June 2019,11:20  (13:20 CET),33.638 km/h,ME - Men Elite,194 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,371,5754,Feltre,Monte Avena,0,868,Sprint of small group,
+20,giro-d-italia/2019/stage-21,02 June 2019,13:40  (15:40 CET),46.119 km/h,ME - Men Elite,17 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,23,297,Verona,Verona,0,868,Time Trial,
+21,giro-d-italia/2020/stage-1,03 October 2020,13:15,58.83 km/h,ME - Men Elite,15.1 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,6,74,Monreale,Palermo,8,763,Time Trial,
+22,giro-d-italia/2020/stage-2,04 October 2020,12:55,43.62 km/h,ME - Men Elite,149 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p3,92,2359,Alcamo,Agrigento,8,763,Sprint of small group,
+23,giro-d-italia/2020/stage-3,05 October 2020,12:25,37.11 km/h,ME - Men Elite,150 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,293,3516,Enna,Etna,8,763,14 km solo,
+24,giro-d-italia/2020/stage-4,06 October 2020,12:30,41.54 km/h,ME - Men Elite,140 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,45,1791,Catania,Villafranca Tirrena,8,763,Sprint of large group,
+25,giro-d-italia/2020/stage-5,07 October 2020,10:30,37.57 km/h,ME - Men Elite,225 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,216,4691,Mileto,Camigliatello Silano,8,763,17 km solo,
+26,giro-d-italia/2020/stage-6,08 October 2020,11:50,38.28 km/h,ME - Men Elite,188 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,107,2821,Castrovillari,Matera,8,763,Sprint of large group,
+27,giro-d-italia/2020/stage-7,09 October 2020,13:10,51.23 km/h,ME - Men Elite,143 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,5,450,Matera,Brindisi,8,763,Sprint of large group,
+28,giro-d-italia/2020/stage-8,10 October 2020,11:35,41.36 km/h,ME - Men Elite,200 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,116,2197,Giovinazzo,Vieste,8,763,18 km solo,
+29,giro-d-italia/2020/stage-9,11 October 2020,10:30,36.56 km/h,ME - Men Elite,208 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,222,4544,San Salvo,Roccaraso,8,763,0.1 km solo,
+30,giro-d-italia/2020/stage-10,13 October 2020,12:00,43.9 km/h,ME - Men Elite,177 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,134,2057,Lanciano,Tortoreto,8,763,12 km solo,
+31,giro-d-italia/2020/stage-11,14 October 2020,12:15,44.78 km/h,ME - Men Elite,182 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,50,1197,Porto Sant'Elpidio,Rimini,8,763,Sprint of large group,
+32,giro-d-italia/2020/stage-12,15 October 2020,11:15,36.93 km/h,ME - Men Elite,204 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,164,3815,Cesenatico,Cesenatico,8,763,25 km solo,
+33,giro-d-italia/2020/stage-13,16 October 2020,11:50,43.92 km/h,ME - Men Elite,192 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,86,827,Cervia,Monselice,8,763,Sprint of large group,
+34,giro-d-italia/2020/stage-14,17 October 2020,13:00,47.95 km/h,ME - Men Elite,34.1 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,63,716,Conegliano,Valdobbiadene,8,763,Time Trial,
+35,giro-d-italia/2020/stage-15,18 October 2020,11:20,37.14 km/h,ME - Men Elite,185 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,347,4515,Base Aerea Rivolto,Piancavallo,8,763,0.2 km solo,
+36,giro-d-italia/2020/stage-16,20 October 2020,10:25,37.69 km/h,ME - Men Elite,229 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p3,238,4056,Udine,San Daniele del Friuli,8,763,0.6 km solo,
+37,giro-d-italia/2020/stage-17,21 October 2020,10:30,34.7 km/h,ME - Men Elite,203 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,316,5650,Bassano del Grappa,Madonna di Campiglio,8,763,8 km solo,
+38,giro-d-italia/2020/stage-18,22 October 2020,10:20,34.21 km/h,ME - Men Elite,207 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,400,5848,Pinzolo,Laghi di Cancano,8,763,Sprint a deux,
+39,giro-d-italia/2020/stage-19,23 October 2020,14:30,49.38 km/h,ME - Men Elite,124 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,11,406,Abbiategrasso,Asti,8,763,23 km solo,
+40,giro-d-italia/2020/stage-20,24 October 2020,11:10,38.94 km/h,ME - Men Elite,190 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,262,3716,Alba,Sestriere,8,763,Sprint a deux,
+41,giro-d-italia/2020/stage-21,25 October 2020,13:40  (12:40 CET),54.56 km/h,ME - Men Elite,15.7 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,0,3,Cernusco sul Naviglio,Milan,8,763,Time Trial,
+42,giro-d-italia/2021/stage-1,08 May 2021,14:00,58.748 km/h,ME - Men Elite,8.6 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,1,48,Turin,Turin,11,885,Time Trial,
+43,giro-d-italia/2021/stage-2,09 May 2021,12:55,41.126 km/h,ME - Men Elite,179 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,9,707,Stupinigi,Novara,11,885,Sprint of large group,
+44,giro-d-italia/2021/stage-3,10 May 2021,12:30,43.597 km/h,ME - Men Elite,190 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,103,1870,Biella,Canale,11,885,8.6 km solo,
+45,giro-d-italia/2021/stage-4,11 May 2021,12:30,37.571 km/h,ME - Men Elite,187 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,252,3138,Piacenza,Sestola,11,885,2.5 km solo,
+46,giro-d-italia/2021/stage-5,12 May 2021,13:20,42.993 km/h,ME - Men Elite,177 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,0,363,Modena,Cattolica,11,885,Sprint of large group,
+47,giro-d-italia/2021/stage-6,13 May 2021,12:55,37.229 km/h,ME - Men Elite,160 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,221,3595,Grotte di Frasassi,Ascoli Piceno (San Giacomo),11,885,3.3 km solo,
+48,giro-d-italia/2021/stage-7,14 May 2021,13:00,38.483 km/h,ME - Men Elite,181 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p3,37,1725,Notaresco,Termoli,11,885,Sprint of large group,
+49,giro-d-italia/2021/stage-8,15 May 2021,12:50,41.332 km/h,ME - Men Elite,170 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p3,133,3085,Foggia,Guardia Sanframondi,11,885,2.2 km solo,
+50,giro-d-italia/2021/stage-9,16 May 2021,12:25,38.167 km/h,ME - Men Elite,158 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p3,196,3503,Castel di Sangro,Campo Felice (Rocca di Cambio),11,885,0.2 km solo,
+51,giro-d-italia/2021/stage-10,17 May 2021,13:55,43.68 km/h,ME - Men Elite,139 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,60,1460,L'Aquila,Foligno,11,885,Sprint of large group,
+52,giro-d-italia/2021/stage-11,19 May 2021,13:10,40.179 km/h,ME - Men Elite,162 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,174,2364,Perugia,Montalcino,11,885,Sprint a deux,
+53,giro-d-italia/2021/stage-12,20 May 2021,11:30,36.998 km/h,ME - Men Elite,212 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,223,4433,Siena,Bagno di Romagna,11,885,Sprint a deux,
+54,giro-d-italia/2021/stage-13,21 May 2021,12:35,42.08 km/h,ME - Men Elite,198 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,0,199,Ravenna,Verona,11,885,Sprint of large group,
+55,giro-d-italia/2021/stage-14,22 May 2021,11:40,38.756 km/h,ME - Men Elite,205 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,341,3580,Cittadella,Monte Zoncolan,11,885,2.3 km solo,
+56,giro-d-italia/2021/stage-15,23 May 2021,13:20,42.937 km/h,ME - Men Elite,147 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,106,1682,Grado,Gorizia,11,885,Sprint a deux,
+57,giro-d-italia/2021/stage-16,24 May 2021,11:40,34.947 km/h,ME - Men Elite,153 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,295,3942,Sacile,Cortina d'Ampezzo,11,885,21 km solo,
+58,giro-d-italia/2021/stage-17,26 May 2021,12:10,39.303 km/h,ME - Men Elite,193 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,408,3703,Canazei,Sega di Ala,11,885,10 km solo,
+59,giro-d-italia/2021/stage-18,27 May 2021,11:45,44.04 km/h,ME - Men Elite,231 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,74,1398,Rovereto,Stradella,11,885,6.5 km solo,
+60,giro-d-italia/2021/stage-19,28 May 2021,12:45,41.002 km/h,ME - Men Elite,166 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,292,2811,Abbiategrasso,Alpe di Mera (Valsesia),11,885,5.5 km solo,
+61,giro-d-italia/2021/stage-20,29 May 2021,12:30,36.732 km/h,ME - Men Elite,164 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,305,3867,Verbania,Valle Spluga-Alpe Motta,11,885,2 km solo,
+62,giro-d-italia/2021/stage-21,30 May 2021,13:45,53.787 km/h,ME - Men Elite,30.3 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,0,24,Senago,Milan,11,885,Time Trial,
+63,giro-d-italia/2022/stage-1,06 May 2022,12:40,42.473 km/h,ME - Men Elite,195 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p3,51,1390,Budapest,Visegrád,12,817,Sprint of large group,23 °C
+64,giro-d-italia/2022/stage-2,07 May 2022,14:00,46.648 km/h,ME - Men Elite,9.2 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,8,81,Budapest,Budapest,12,817,Time Trial,
+65,giro-d-italia/2022/stage-3,08 May 2022,12:40,40.654 km/h,ME - Men Elite,201 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,7,1150,Kaposvár,Balatonfüred,12,817,Sprint of large group,19 °C
+66,giro-d-italia/2022/stage-4,10 May 2022,12:35,37.916 km/h,ME - Men Elite,172 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,251,3626,Avola,Etna,12,817,Sprint a deux,18 °C
+67,giro-d-italia/2022/stage-5,11 May 2022,11:45,42.799 km/h,ME - Men Elite,174 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,31,1968,Catania,Messina,12,817,Sprint of large group,20 °C
+68,giro-d-italia/2022/stage-6,12 May 2022,12:50,38.076 km/h,ME - Men Elite,192 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,49,1498,Palmi,Scalea,12,817,Sprint of large group,21 °C
+69,giro-d-italia/2022/stage-7,13 May 2022,11:55,37.632 km/h,ME - Men Elite,196 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,246,4730,Diamante,Potenza,12,817,Sprint of small group,19 °C
+70,giro-d-italia/2022/stage-8,14 May 2022,13:40,43.122 km/h,ME - Men Elite,153 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,123,2243,Napoli,Napoli,12,817,Sprint of small group,22 °C
+71,giro-d-italia/2022/stage-9,15 May 2022,11:45,34.236 km/h,ME - Men Elite,191 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,458,5080,Isernia,Blockhaus,12,817,Sprint of small group,22 °C
+72,giro-d-italia/2022/stage-10,17 May 2022,12:40,43.217 km/h,ME - Men Elite,196 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,86,1764,Pescara,Jesi,12,817,Sprint of small group,25 °C
+73,giro-d-italia/2022/stage-11,18 May 2022,12:30,47.015 km/h,ME - Men Elite,203 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p1,0,369,Santarcangelo di Romagna,Reggio Emilia,12,817,Sprint of large group,26 °C
+74,giro-d-italia/2022/stage-12,19 May 2022,12:05,45.88 km/h,ME - Men Elite,204 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,112,2867,Parma,Genova,12,817,Sprint of small group,23 °C
+75,giro-d-italia/2022/stage-13,20 May 2022,13:35,45.393 km/h,ME - Men Elite,150 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,51,1817,Sanremo,Cuneo,12,817,Sprint of large group,24 °C
+76,giro-d-italia/2022/stage-14,21 May 2022,13:15,39.422 km/h,ME - Men Elite,147 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,247,3167,Santena,Torino,12,817,4.6 km solo,29 °C
+77,giro-d-italia/2022/stage-15,22 May 2022,12:25,38.245 km/h,ME - Men Elite,177 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,301,4019,Rivarolo Canavese,Cogne,12,817,18.8 km solo,26 °C
+78,giro-d-italia/2022/stage-16,24 May 2022,11:15,35.569 km/h,ME - Men Elite,202 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,376,5268,Salò,Aprica,12,817,7.9 km solo,20 °C
+79,giro-d-italia/2022/stage-17,25 May 2022,12:40,37.656 km/h,ME - Men Elite,168 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p4,347,3950,Ponte di Legno,Lavarone,12,817,8.2 km solo,16 °C
+80,giro-d-italia/2022/stage-18,26 May 2022,13:45,46.486 km/h,ME - Men Elite,156 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,34,1219,Borgo Valsugana,Treviso,12,817,Sprint of small group,25 °C
+81,giro-d-italia/2022/stage-19,27 May 2022,12:25,39.133 km/h,ME - Men Elite,178 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,262,3489,Marano Lagunare,Santuario di Castelmonte,12,817,Sprint of small group,27 °C
+82,giro-d-italia/2022/stage-20,28 May 2022,12:25,35.175 km/h,ME - Men Elite,168 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p5,392,4718,Belluno,Marmolada (Passo Fedaia),12,817,53.7 km solo,16 °C
+83,giro-d-italia/2022/stage-21,29 May 2022,14:00,46.607 km/h,ME - Men Elite,17.4 km,GT.B.Stage,UCI.WR.GT.B.Stage - TM2022,p2,30,317,Verona,Verona,12,817,Time Trial,

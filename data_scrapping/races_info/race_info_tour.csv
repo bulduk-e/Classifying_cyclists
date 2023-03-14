@@ -1,0 +1,85 @@
+,race_code,Date:,Start time:,Avg. speed winner:,Race category:,Distance:,Points scale:,UCI scale:,Parcours type:,ProfileScore:,Vert. meters:,Departure:,Arrival:,Race ranking:,Startlist quality score:,Won how:,Avg. temperature:
+0,tour-de-france/2019/stage-1,06 July 2019,12:25  (14:25 CET),44.409 km/h,ME - Men Elite,194.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p3,20,1582,Brussels,Brussels,0,1694,Sprint of large group,
+1,tour-de-france/2019/stage-2,07 July 2019,14:30  (16:30 CET),53.94 km/h,ME - Men Elite,27.6 km,GT.A.TTT,,p1,7,267,Brussels,Brussels,0,1694,Time Trial,
+2,tour-de-france/2019/stage-3,08 July 2019,12:20  (14:20 CET),45.992 km/h,ME - Men Elite,215 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p3,97,2299,Binche,Épernay,0,1694,16 km solo,
+3,tour-de-france/2019/stage-4,09 July 2019,12:25  (14:25 CET),41.412 km/h,ME - Men Elite,213.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,32,1555,Reims,Nancy,0,1694,Sprint of large group,
+4,tour-de-france/2019/stage-5,10 July 2019,13:25  (15:25 CET),43.41 km/h,ME - Men Elite,175.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,132,2325,Saint-Dié-des-Vosges,Colmar,0,1694,Sprint of large group,
+5,tour-de-france/2019/stage-6,11 July 2019,13:25  (15:25 CET),35.793 km/h,ME - Men Elite,160.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,329,3944,Mulhouse,La Planche des Belles Filles,0,1694,0.1 km solo,
+6,tour-de-france/2019/stage-7,12 July 2019,11:35  (13:35 CET),38.044 km/h,ME - Men Elite,230 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,36,2367,Belfort,Chalon-sur-Saône,0,1694,Sprint of large group,
+7,tour-de-france/2019/stage-8,13 July 2019,12:25  (14:25 CET),39.962 km/h,ME - Men Elite,200 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,189,3844,Mâcon,Saint-Étienne,0,1694,14.1 km solo,
+8,tour-de-france/2019/stage-9,14 July 2019,13:25  (15:25 CET),42.064 km/h,ME - Men Elite,170.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,114,2717,Saint-Étienne,Brioude,0,1694,Sprint a deux,
+9,tour-de-france/2019/stage-10,15 July 2019,12:25  (14:25 CET),45.054 km/h,ME - Men Elite,217.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,85,3031,Saint-Flour,Albi,0,1694,Sprint of large group,
+10,tour-de-france/2019/stage-11,17 July 2019,13:45  (15:45 CET),43.3 km/h,ME - Men Elite,167 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,43,1827,Albi,Toulouse,0,1694,Sprint of large group,
+11,tour-de-france/2019/stage-12,18 July 2019,11:50  (13:50 CET),42.198 km/h,ME - Men Elite,209.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,177,3088,Toulouse,Bagnères-de-Bigorre,0,1694,Sprint of small group,
+12,tour-de-france/2019/stage-13,19 July 2019,14:00  (16:00 CET),46.629 km/h,ME - Men Elite,27.2 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,33,391,Pau,Pau,0,1694,Time Trial,
+13,tour-de-france/2019/stage-14,20 July 2019,13:45  (15:45 CET),34.991 km/h,ME - Men Elite,111 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,359,3376,Tarbes,Col du Tourmalet,0,1694,0.2 km solo,
+14,tour-de-france/2019/stage-15,21 July 2019,12:10  (14:10 CET),38.667 km/h,ME - Men Elite,185 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,365,4345,Limoux,Foix,0,1694,9 km solo,
+15,tour-de-france/2019/stage-16,23 July 2019,13:30  (15:30 CET),44.785 km/h,ME - Men Elite,177 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,29,1626,Nîmes,Nîmes,0,1694,Sprint of large group,
+16,tour-de-france/2019/stage-17,24 July 2019,12:40  (14:40 CET),45.872 km/h,ME - Men Elite,200 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,85,2472,Pont du Gard,Gap,0,1694,14 km solo,
+17,tour-de-france/2019/stage-18,25 July 2019,11:25  (13:25 CET),37.337 km/h,ME - Men Elite,208 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,232,5215,Embrun,Valloire,0,1694,26 km solo,
+18,tour-de-france/2019/stage-19,26 July 2019,13:55  (15:55 CET),33.27 km/h,ME - Men Elite,89 km,GT.A.Stage,UCI.GT.A.Stage,p5,317,2995,Saint-Jean-de-Maurienne,Tignes,0,1694,? - let us know!,
+19,tour-de-france/2019/stage-20,27 July 2019,14:30  (16:30 CET),31.908 km/h,ME - Men Elite,59.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,267,2228,Albertville,Val Thorens,0,1694,12 km solo,
+20,tour-de-france/2019/stage-21,28 July 2019,18:10  (20:10 CET),41.709 km/h,ME - Men Elite,128 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,10,781,Rambouillet,Paris,0,1694,Sprint of large group,
+21,tour-de-france/2020/stage-1,29 August 2020,14:15,41.35 km/h,ME - Men Elite,156 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,46,1597,Nice,Nice,1,1554,Sprint of large group,
+22,tour-de-france/2020/stage-2,30 August 2020,13:20,37.57 km/h,ME - Men Elite,185 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,188,4066,Nice,Nice,1,1554,Sprint of small group,
+23,tour-de-france/2020/stage-3,31 August 2020,12:20,37.39 km/h,ME - Men Elite,198 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,81,3003,Nice,Sisteron,1,1554,Sprint of large group,
+24,tour-de-france/2020/stage-4,01 September 2020,13:30,38.86 km/h,ME - Men Elite,160.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,200,3200,Sisteron,Orcières-Merlette,1,1554,Sprint of small group,
+25,tour-de-france/2020/stage-5,02 September 2020,13:20,42.01 km/h,ME - Men Elite,183 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,31,1388,Gap,Privas,1,1554,Sprint of large group,
+26,tour-de-france/2020/stage-6,03 September 2020,12:10,42.04 km/h,ME - Men Elite,191 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,227,3087,Le Teil,Mont Aigoual,1,1554,17 km solo,
+27,tour-de-france/2020/stage-7,04 September 2020,13:35,47.54 km/h,ME - Men Elite,168 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,47,2011,Millau,Lavaur,1,1554,Sprint of large group,
+28,tour-de-france/2020/stage-8,05 September 2020,13:35,34.93 km/h,ME - Men Elite,141 km,,,p4,295,3821,Cazères,Loudenvielle,1,1554,35 km solo,
+29,tour-de-france/2020/stage-9,06 September 2020,12:35,39.02 km/h,ME - Men Elite,153 km,,,p4,239,3500,Pau,Laruns,1,1554,Sprint of small group,
+30,tour-de-france/2020/stage-10,08 September 2020,-,46.94 km/h,ME - Men Elite,168.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,2,531,île d'Oléron (Le Château-d'Oléron),Île de Ré (Saint-Martin-de-Ré),1,1554,Sprint of large group,
+31,tour-de-france/2020/stage-11,09 September 2020,13:40,41.62 km/h,ME - Men Elite,166.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,13,1008,Châtelaillon-Plage,Poitiers,1,1554,Sprint of large group,
+32,tour-de-france/2020/stage-12,10 September 2020,12:00,42.36 km/h,ME - Men Elite,218 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p3,142,3389,Chauvigny,Sarran,1,1554,28 km solo,
+33,tour-de-france/2020/stage-13,11 September 2020,12:05,38.07 km/h,ME - Men Elite,191.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,302,4459,Châtel-Guyon,Pas de Peyrol (Le Puy Mary),1,1554,0.1 km solo,
+34,tour-de-france/2020/stage-14,12 September 2020,13:20,43.41 km/h,ME - Men Elite,194 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,73,2646,Clermont-Ferrand,Lyon,1,1554,3 km solo,
+35,tour-de-france/2020/stage-15,13 September 2020,12:50,38.18 km/h,ME - Men Elite,174.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,390,3724,Lyon,Grand Colombier,1,1554,Sprint a deux,
+36,tour-de-france/2020/stage-16,15 September 2020,13:20,38.91 km/h,ME - Men Elite,164 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,250,3903,La Tour-du-Pin,Villard-de-Lans,1,1554,25 km solo,
+37,tour-de-france/2020/stage-17,16 September 2020,12:30,35.28 km/h,ME - Men Elite,170 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,444,4430,Grenoble,Méribel - Col de la Loze,1,1554,3.5 km solo,
+38,tour-de-france/2020/stage-18,17 September 2020,12:30,36.52 km/h,ME - Men Elite,175 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,314,5166,Méribel,La Roche-sur-Foron,1,1554,Sprint a deux,
+39,tour-de-france/2020/stage-19,18 September 2020,13:45,46.13 km/h,ME - Men Elite,166.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,77,2208,Bourg-en-Bresse,Champagnole,1,1554,16 km solo,
+40,tour-de-france/2020/stage-20,19 September 2020,13:00,38.84 km/h,ME - Men Elite,36.2 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,135,962,Lure,La Planche des Belles Filles,1,1554,Time Trial,
+41,tour-de-france/2020/stage-21,20 September 2020,16:00,42.18 km/h,ME - Men Elite,122 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,11,816,Mantes-la-Jolie,Paris,1,1554,Sprint of large group,
+42,tour-de-france/2021/stage-1,26 June 2021,12:30,42.525 km/h,ME - Men Elite,197.8 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p3,109,2843,Brest,Landerneau,1,1646,2.2 km solo,
+43,tour-de-france/2021/stage-2,27 June 2021,13:20,42.592 km/h,ME - Men Elite,183.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p3,102,2210,Perros-Guirec,Mûr-de-Bretagne Guerlédan,1,1646,0.75 km solo,
+44,tour-de-france/2021/stage-3,28 June 2021,13:20,45.447 km/h,ME - Men Elite,182.9 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,34,1534,Lorient,Pontivy,1,1646,Sprint of large group,
+45,tour-de-france/2021/stage-4,29 June 2021,13:40,45.056 km/h,ME - Men Elite,150.4 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,24,1404,Redon,Fougères,1,1646,Sprint of large group,
+46,tour-de-france/2021/stage-5,30 June 2021,12:15,51 km/h,ME - Men Elite,27.2 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,17,356,Changé,Laval Espace Mayenne,1,1646,Time Trial,
+47,tour-de-france/2021/stage-6,01 July 2021,14:05,48.704 km/h,ME - Men Elite,160.4 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,5,977,Tours,Châteauroux,1,1646,Sprint of large group,
+48,tour-de-france/2021/stage-7,02 July 2021,11:15,45.521 km/h,ME - Men Elite,249.1 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,146,3120,Vierzon,Le Creusot,1,1646,18 km solo,
+49,tour-de-france/2021/stage-8,03 July 2021,13:15,38.554 km/h,ME - Men Elite,150.8 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,310,3557,Oyonnax,Le Grand-Bornand,1,1646,15.4 km solo,
+50,tour-de-france/2021/stage-9,04 July 2021,13:10,32.596 km/h,ME - Men Elite,144.9 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,381,4628,Cluses,Tignes,1,1646,17.3 km solo,
+51,tour-de-france/2021/stage-10,06 July 2021,13:20,45.027 km/h,ME - Men Elite,190.7 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,29,1488,Albertville,Valence,1,1646,Sprint of large group,
+52,tour-de-france/2021/stage-11,07 July 2021,12:15,37.562 km/h,ME - Men Elite,198.9 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,282,4671,Sorgues,Malaucène,1,1646,33.1 km solo,
+53,tour-de-france/2021/stage-12,08 July 2021,13:50,47.3 km/h,ME - Men Elite,159.4 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,52,2052,Saint-Paul-Trois-Châteaux,Nîmes,1,1646,11.8 km solo,
+54,tour-de-france/2021/stage-13,09 July 2021,12:15,43.332 km/h,ME - Men Elite,219.9 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,29,2023,Nîmes,Carcassonne,1,1646,Sprint of large group,
+55,tour-de-france/2021/stage-14,10 July 2021,12:40,43.01 km/h,ME - Men Elite,183.7 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,125,2877,Carcassonne,Quillan,1,1646,42.7 km solo,
+56,tour-de-france/2021/stage-15,11 July 2021,12:30,36.777 km/h,ME - Men Elite,191.3 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,234,4572,Céret,Andorra la Vella,1,1646,19.5 km solo,
+57,tour-de-france/2021/stage-16,13 July 2021,13:30,41.904 km/h,ME - Men Elite,169 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,177,3260,El Pas de la Casa,Saint-Gaudens,1,1646,34.6 km solo,
+58,tour-de-france/2021/stage-17,14 July 2021,12:10,35.267 km/h,ME - Men Elite,178.4 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,450,4375,Muret,Saint-Lary-Soulan (Col du Portet),1,1646,Sprint of small group,
+59,tour-de-france/2021/stage-18,15 July 2021,13:50,36.407 km/h,ME - Men Elite,129.7 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,367,3561,Pau,Luz Ardiden,1,1646,0.6 km solo,
+60,tour-de-france/2021/stage-19,16 July 2021,12:30,47.901 km/h,ME - Men Elite,207 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,16,1181,Mourenx,Libourne,1,1646,26 km solo,
+61,tour-de-france/2021/stage-20,17 July 2021,13:05,51.5 km/h,ME - Men Elite,30.8 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,8,246,Libourne,Saint-Émilion,1,1646,Time Trial,
+62,tour-de-france/2021/stage-21,18 July 2021,16:30,40.748 km/h,ME - Men Elite,108.4 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,14,699,Chatou,Paris Champs-Élysées,1,1646,Sprint of large group,
+63,tour-de-france/2022/stage-1,01 July 2022,16:00,51.821 km/h,ME - Men Elite,13.2 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,0,21,Copenhagen,Copenhagen,1,1551,Time Trial,
+64,tour-de-france/2022/stage-2,02 July 2022,12:35,44.186 km/h,ME - Men Elite,202.2 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,11,1149,Roskilde,Nyborg,1,1551,Sprint of large group,22 °C
+65,tour-de-france/2022/stage-3,03 July 2022,13:15,43.411 km/h,ME - Men Elite,182 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,16,1280,Vejle,Sønderborg,1,1551,Sprint of large group,23 °C
+66,tour-de-france/2022/stage-4,05 July 2022,13:30,42.591 km/h,ME - Men Elite,171.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,63,1785,Dunkerque,Calais,1,1551,11.6 km solo,20 °C
+67,tour-de-france/2022/stage-5,06 July 2022,14:00,48.661 km/h,ME - Men Elite,157 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,1,601,Lille,Wallers-Arenberg,1,1551,Sprint of small group,24 °C
+68,tour-de-france/2022/stage-6,07 July 2022,12:15,49.376 km/h,ME - Men Elite,219.9 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p3,85,2477,Binche,Longwy,1,1551,Sprint of small group,19 °C
+69,tour-de-france/2022/stage-7,08 July 2022,13:15,44.321 km/h,ME - Men Elite,176.3 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,192,2526,Tomblaine,La Super Planche des Belles Filles,1,1551,Sprint a deux,22 °C
+70,tour-de-france/2022/stage-8,09 July 2022,13:20,44.164 km/h,ME - Men Elite,186.3 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p3,87,2556,Dole,Lausanne,1,1551,Sprint of small group,23 °C
+71,tour-de-france/2022/stage-9,10 July 2022,12:45,40.377 km/h,ME - Men Elite,192.9 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p3,223,3743,Aigle,Châtel les portes du Soleil,1,1551,60.5 km solo,24 °C
+72,tour-de-france/2022/stage-10,12 July 2022,13:40,44.691 km/h,ME - Men Elite,148.1 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,143,2733,Morzine,Megève,1,1551,Sprint of small group,26 °C
+73,tour-de-france/2022/stage-11,13 July 2022,12:30,35.275 km/h,ME - Men Elite,151.7 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,400,4070,Albertville,Col du Granon,1,1551,3.9 km solo,25 °C
+74,tour-de-france/2022/stage-12,14 July 2022,13:20,33.534 km/h,ME - Men Elite,165.1 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,389,4660,Briançon,L'Alpe d'Huez,1,1551,11 km solo,26 °C
+75,tour-de-france/2022/stage-13,15 July 2022,13:20,45.667 km/h,ME - Men Elite,192.6 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,78,2109,Bourg d'Oisans,Saint-Etienne,1,1551,Sprint of small group,32 °C
+76,tour-de-france/2022/stage-14,16 July 2022,12:30,42.638 km/h,ME - Men Elite,192.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,170,3441,Saint-Etienne,Mende,1,1551,1.9 km solo,27 °C
+77,tour-de-france/2022/stage-15,17 July 2022,13:15,45.429 km/h,ME - Men Elite,202.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p2,64,2416,Rodez,Carcassonne,1,1551,Sprint of large group,36 °C
+78,tour-de-france/2022/stage-16,19 July 2022,12:40,40.602 km/h,ME - Men Elite,178.5 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p4,204,3418,Carcassonne,Foix,1,1551,39 km solo,31 °C
+79,tour-de-france/2022/stage-17,20 July 2022,13:25,37.806 km/h,ME - Men Elite,129.7 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,324,3364,Saint-Gaudens,Peyragudes,1,1551,Sprint a deux,23 °C
+80,tour-de-france/2022/stage-18,21 July 2022,13:40,35.825 km/h,ME - Men Elite,143.2 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p5,408,4036,Lourdes,Hautacam,1,1551,3.6 km solo,27 °C
+81,tour-de-france/2022/stage-19,22 July 2022,13:10,48.684 km/h,ME - Men Elite,188.3 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p3,35,1316,Castelnau-Magnoac,Cahors,1,1551,0.4 km solo,30 °C
+82,tour-de-france/2022/stage-20,23 July 2022,13:05,50.893 km/h,ME - Men Elite,40.7 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p3,39,434,Lacapelle-Marival,Rocamadour,1,1551,Time Trial,
+83,tour-de-france/2022/stage-21,24 July 2022,16:45,38.85 km/h,ME - Men Elite,115.6 km,GT.A.Stage,UCI.WR.GT.A.Stage - TM2022,p1,13,748,Paris La Défense,Paris (Champs-Élysées),1,1551,Sprint of large group,32 °C
